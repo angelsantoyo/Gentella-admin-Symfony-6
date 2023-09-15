@@ -18,6 +18,7 @@
 /.php-cs-fixer.cache
 .php-cs-fixer.php
 .env
+/.env
 
 ###> phpstan/phpstan ###
 phpstan.neon
